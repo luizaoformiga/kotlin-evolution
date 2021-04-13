@@ -1,17 +1,17 @@
 // Nullability
 
-/* 
+/*
 
 Qualquer tipo pode ser nulo, porem isso deve ser explicitado na declaraçao de variavel atraves do uso da interrogaçao (?)
 
 A interferencia de tipo nao atribui nullability
 
-*/ 
+*/
 
 var moth:Int? = null
 // atribui valor null corretamente a moth
 
-var day:Int = null 
+var day:Int = null
 // Erro de compilacao
 
 
@@ -50,7 +50,7 @@ a /= b //atribuicao
 fun main() {
     val count = 10
     val times = 9
-    var runner = times + count 
+    var runner = times + count
 
     println(runner)
     println(count.plus(times))

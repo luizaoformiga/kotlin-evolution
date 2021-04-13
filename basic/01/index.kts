@@ -3,7 +3,7 @@ fun main() {
     println("hello word");
 }
 
-// tipos e dados 
+// tipos e dados
 println(Int.MAX_VALUE)
 println(Float.MAX_VALUE)
 println(Long.MAX_VALUE)

@@ -8,7 +8,7 @@
 
 //verficam se ha algum valor presente ou nao na lista
 
-// ex: 
+// ex:
 
 val numbers = listOf(3, 5, 6, 7)
 print(12 in numbers) // false

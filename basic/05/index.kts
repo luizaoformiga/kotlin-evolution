@@ -10,7 +10,7 @@ a.compareTo(b) > 0 or a.compareTo(b) < 0 // comando
 // ex 1
 maior / menor igual // funçao
 
-a >= b ou a <= b // expressao
+        a >= b ou a <= b // expressao
 
 a.compareTo(b) >= 0 or a.compareTo(b) <= 0 // comando
 
